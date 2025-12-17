@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing System -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">20dp</dimen>
+    <dimen name="spacing_xxl">24dp</dimen>
+    <dimen name="spacing_xxxl">32dp</dimen>
+    
+    <!-- Button Dimensions -->
+    <dimen name="button_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius_small">12dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_elevation_pressed">4dp</dimen>
+    <dimen name="button_margin">4dp</dimen>
+    <dimen name="button_margin_small">3dp</dimen>
+    
+    <!-- Card Dimensions -->
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="card_corner_radius_large">24dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_elevation_high">8dp</dimen>
+    <dimen name="card_stroke_width">1dp</dimen>
+    
+    <!-- Input Field Dimensions -->
+    <dimen name="input_corner_radius">20dp</dimen>
+    <dimen name="input_padding">20dp</dimen>
+    <dimen name="input_padding_small">16dp</dimen>
+    <dimen name="input_min_height">64dp</dimen>
+    <dimen name="input_min_height_small">48dp</dimen>
+    
+    <!-- Display Dimensions -->
+    <dimen name="display_min_height">80dp</dimen>
+    <dimen name="display_min_height_small">60dp</dimen>
+    <dimen name="display_padding">16dp</dimen>
+    <dimen name="display_padding_small">12dp</dimen>
+    
+    <!-- Text Sizes -->
+    <dimen name="text_size_display">48sp</dimen>
+    <dimen name="text_size_display_small">36sp</dimen>
+    <dimen name="text_size_expression">18sp</dimen>
+    <dimen name="text_size_button">20sp</dimen>
+    <dimen name="text_size_button_large">24sp</dimen>
+    <dimen name="text_size_button_small">16sp</dimen>
+    
+    <!-- Layout Margins -->
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="layout_margin_small">12dp</dimen>
+    <dimen name="layout_margin_large">24dp</dimen>
+    
+    <!-- Container Padding -->
+    <dimen name="container_padding">16dp</dimen>
+    <dimen name="container_padding_small">12dp</dimen>
+    <dimen name="container_padding_large">24dp</dimen>
+    
+    <!-- Animation Durations -->
+    <integer name="animation_duration_short">150</integer>
+    <integer name="animation_duration_medium">300</integer>
+    <integer name="animation_duration_long">500</integer>
+    
+    <!-- Grid Layout -->
+    <integer name="grid_columns_portrait">4</integer>
+    <integer name="grid_columns_landscape">6</integer>
+    <integer name="grid_rows_portrait">6</integer>
+    <integer name="grid_rows_landscape">4</integer>
+</resources>

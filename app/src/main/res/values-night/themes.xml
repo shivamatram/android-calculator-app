@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark Theme Override -->
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator.Dark" />
+</resources>

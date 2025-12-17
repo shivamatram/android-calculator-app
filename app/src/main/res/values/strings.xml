@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    
+    <!-- Content Descriptions for Accessibility -->
+    <string name="cd_expression_input">Mathematical expression input field</string>
+    <string name="cd_result_display">Calculation result display</string>
+    <string name="cd_button_number">Number button</string>
+    <string name="cd_button_operator">Mathematical operator button</string>
+    <string name="cd_button_function">Mathematical function button</string>
+    <string name="cd_button_clear">Clear all input</string>
+    <string name="cd_button_delete">Delete last character</string>
+    <string name="cd_button_equals">Calculate result</string>
+    <string name="cd_button_decimal">Decimal point</string>
+    <string name="cd_button_parentheses">Parentheses</string>
+    <string name="cd_button_sqrt">Square root function</string>
+    <string name="cd_button_power">Power function</string>
+    <string name="cd_button_percentage">Percentage function</string>
+    
+    <!-- Button Labels -->
+    <string name="btn_clear">C</string>
+    <string name="btn_delete">⌫</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_percentage">%</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_power">x²</string>
+    <string name="btn_parentheses">( )</string>
+    
+    <!-- Numbers -->
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_expression">Invalid expression</string>
+    <string name="error_division_by_zero">Cannot divide by zero</string>
+    <string name="error_sqrt_negative">Cannot calculate square root of negative number</string>
+    <string name="error_invalid_operation">Invalid operation</string>
+    <string name="error_not_a_number">Result is not a number</string>
+    <string name="error_infinity">Result is infinity</string>
+    
+    <!-- Hints and Labels -->
+    <string name="hint_expression">Enter expression</string>
+    <string name="label_result">Result</string>
+    <string name="label_expression">Expression</string>
+    
+    <!-- App Description -->
+    <string name="app_description">A beautiful, modern Material Design calculator with advanced mathematical functions</string>
+</resources>

@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Blue circular background - Full icon size -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M54,0 C83.82,0 108,24.18 108,54 C108,83.82 83.82,108 54,108 C24.18,108 0,83.82 0,54 C0,24.18 24.18,0 54,0 Z" />
+    
+    <!-- White rounded rectangle container -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,28 L80,28 Q84,28 84,32 L84,76 Q84,80 80,80 L28,80 Q24,80 24,76 L24,32 Q24,28 28,28 Z" />
+    
+    <!-- Grid lines -->
+    <!-- Vertical separator -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M53,30 L55,30 L55,78 L53,78 Z" />
+    <!-- Horizontal separator -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M26,53 L82,53 L82,55 L26,55 Z" />
+    
+    <!-- Plus sign (top left) - Blue on white background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M32,42 L46,42 L46,44 L32,44 Z" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M38,36 L40,36 L40,50 L38,50 Z" />
+    
+    <!-- Minus sign (top right) - Blue on white background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M60,42 L74,42 L74,44 L60,44 Z" />
+    
+    <!-- Multiply sign X (bottom left) - Blue on white background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M32,62 L34,60 L39,65 L44,60 L46,62 L41,67 L46,72 L44,74 L39,69 L34,74 L32,72 L37,67 Z" />
+    
+    <!-- Equals sign (bottom right) - Blue on white background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M60,64 L74,64 L74,66 L60,66 Z" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M60,70 L74,70 L74,72 L60,72 Z" />
+    
+</vector>

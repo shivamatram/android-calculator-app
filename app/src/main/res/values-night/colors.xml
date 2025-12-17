@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Color Overrides -->
+    
+    <!-- Button Colors - Numbers (Dark) -->
+    <color name="button_number_light">@color/button_number_dark</color>
+    <color name="button_number_pressed_light">@color/button_number_pressed_dark</color>
+    
+    <!-- Button Colors - Operators (Dark) -->
+    <color name="button_operator_light">@color/button_operator_dark</color>
+    <color name="button_operator_pressed_light">@color/button_operator_pressed_dark</color>
+    
+    <!-- Button Colors - Special Functions (Dark) -->
+    <color name="button_function_light">@color/button_function_dark</color>
+    <color name="button_function_pressed_light">@color/button_function_pressed_dark</color>
+    
+    <!-- Button Colors - Equals (Dark) -->
+    <color name="button_equals_light">@color/button_equals_dark</color>
+    <color name="button_equals_pressed_light">@color/button_equals_pressed_dark</color>
+    
+    <!-- Button Colors - Clear/Delete (Dark) -->
+    <color name="button_clear_light">@color/button_clear_dark</color>
+    <color name="button_clear_pressed_light">@color/button_clear_pressed_dark</color>
+    
+    <!-- Input Field Colors (Dark) -->
+    <color name="input_background_light">@color/input_background_dark</color>
+    <color name="input_stroke_light">@color/input_stroke_dark</color>
+    <color name="input_stroke_focused_light">@color/input_stroke_focused_dark</color>
+    
+    <!-- Background Colors (Dark) -->
+    <color name="background_light">@color/background_dark</color>
+    <color name="surface_light">@color/surface_dark</color>
+    <color name="surface_variant_light">@color/surface_variant_dark</color>
+    <color name="surface_container_light">@color/surface_container_dark</color>
+    <color name="surface_container_high_light">@color/surface_container_high_dark</color>
+    
+    <!-- Text Colors (Dark) -->
+    <color name="text_primary_light">@color/text_primary_dark</color>
+    <color name="text_secondary_light">@color/text_secondary_dark</color>
+    <color name="text_tertiary_light">@color/text_tertiary_dark</color>
+    <color name="text_disabled_light">@color/text_disabled_dark</color>
+    
+    <!-- Ripple Colors (Dark) -->
+    <color name="ripple_light">@color/ripple_dark</color>
+    
+    <!-- Shadow Colors (Dark) -->
+    <color name="shadow_light">@color/shadow_dark</color>
+    
+    <!-- Gradient Colors (Dark) -->
+    <color name="gradient_start_light">@color/gradient_start_dark</color>
+    <color name="gradient_end_light">@color/gradient_end_dark</color>
+    
+    <!-- Divider Colors (Dark) -->
+    <color name="divider_light">@color/divider_dark</color>
+</resources>
