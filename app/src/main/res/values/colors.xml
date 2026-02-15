@@ -168,4 +168,18 @@
     <color name="md_theme_dark_surfaceTint">#42A5F5</color>
     <color name="md_theme_dark_outlineVariant">#424242</color>
     <color name="md_theme_dark_scrim">#000000</color>
+
+    <!-- Login Screen Colors -->
+    <color name="login_gradient_start">#6A5AE0</color>
+    <color name="login_gradient_end">#8BD3FF</color>
+    <color name="login_card_surface">#FFFFFF</color>
+    <color name="login_text_primary">#1F2A44</color>
+    <color name="login_text_secondary">#6B7280</color>
+    <color name="login_accent">#4F46E5</color>
+    <color name="login_button_start">#3B82F6</color>
+    <color name="login_button_end">#6366F1</color>
+    <color name="login_input_background">#F8FAFF</color>
+    <color name="login_input_border">#E2E8F0</color>
+    <color name="login_outline">#D7DCE8</color>
+    <color name="login_divider">#E5E7EB</color>
 </resources>
